@@ -1,3 +1,3 @@
 # Weather-App
-Deployed ink - https://weatherappvm.netlify.app/
+Deployed link - https://weatherappvm.netlify.app/
  
